@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074573832987",
+    "project_id": "getxlogin-5586d",
+    "storage_bucket": "getxlogin-5586d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074573832987:android:e691952df2c389f8e719be",
+        "android_client_info": {
+          "package_name": "com.example.get_login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074573832987-d57ps0afdg45td92mvo3tb9qqdpofjk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3t46E4-nAIgeFeq4nw8gTY9pCGXPExXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074573832987-d57ps0afdg45td92mvo3tb9qqdpofjk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074573832987-23hs9einl58emlsg0o8j2kf23s5ivctv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getLoginFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
